@@ -3,7 +3,7 @@ Planejamento feito usando como base o template disponibilizado no repositório d
 
 ## :calendar: Meu cronograma semanal
 <p align="center">
-  <img width="80%" src="./assets/cronograma-semanal.png">
+  <img width="80%" src="./assets/cronograma-semanal.PNG">
 </p>
 
 Na atual situação vivida por todos, disponho de bastante tempo ocioso :sweat_smile:.
@@ -12,7 +12,7 @@ Então não vejo motivos para utilizar esse tempo para estudar ainda mais (lembr
 
 ## :calendar: Meu cronograma diário
 <p align="center">
-  <img width="80%" src="./assets/cronograma-diario.png">
+  <img width="80%" src="./assets/cronograma-diario.PNG">
 </p>
 
 O mesmo motivo também foi levado em conta no meu planejamento diário.
